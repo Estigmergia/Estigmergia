@@ -8,7 +8,7 @@ Our first product aims to address the Space Debris crisis in near-Earth space en
 
 ### Our philosophy
 Estigmergia is 100% owned by everyone in our team. We all bring our ideas to the table, make decisions on mutual consensus, and work hard to develop amazing technology.
-We believe in full collaboration. We work better together, and the concept of collective intelligence is stated in our name and our research focus. Our business model and technology are based on a Decentralized Autonomous Operations.
+We believe in full collaboration. We work better together, and the concept of collective intelligence is stated in our name and our research focus. Our business model and technology are based on a Decentralized Autonomous Organization.
 
 ### Our Work
 Coming soon ...
