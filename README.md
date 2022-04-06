@@ -7,7 +7,7 @@ We aim to build reusable, reprogrammable, low-cost mini-robots capable of perfor
 Our first product aims to address the Space Debris crisis in near-Earth space environment and facilitate future in-orbit missions.
 
 ### Our philosophy
-Estigmergia is 100% owned by everyone in our team. We all bring our ideas to the table, make decisions on mutual consensus, and work hard to develop amazing technology.
+Estigmergia is commited to fair compensation and inclusion. We all bring our ideas to the table, make decisions on mutual consensus, and work hard to develop amazing technology.
 We believe in full collaboration. We work better together, and the concept of collective intelligence is stated in our name and our research focus. Our business model and technology are based on a Decentralized Autonomous Organization.
 
 ### Our Work
